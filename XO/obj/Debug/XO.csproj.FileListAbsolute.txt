@@ -1,0 +1,9 @@
+D:\University\SoloStudying\XO\bin\Debug\XO.exe.config
+D:\University\SoloStudying\XO\bin\Debug\XO.exe
+D:\University\SoloStudying\XO\bin\Debug\XO.pdb
+D:\University\SoloStudying\XO\obj\Debug\XO.Form1.resources
+D:\University\SoloStudying\XO\obj\Debug\XO.Properties.Resources.resources
+D:\University\SoloStudying\XO\obj\Debug\XO.csproj.GenerateResource.cache
+D:\University\SoloStudying\XO\obj\Debug\XO.exe
+D:\University\SoloStudying\XO\obj\Debug\XO.pdb
+D:\University\SoloStudying\XO\obj\Debug\XO.csprojAssemblyReference.cache
